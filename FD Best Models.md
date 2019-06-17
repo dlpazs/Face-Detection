@@ -18,10 +18,10 @@ is not familiar with the identity.
 - Dataset: 
 
 |Datasets|#Identity|#Image/Video|
---------------------------------
-|CASIA [43] 10K |0.5M|
-|VGGFace2 [6] 9.1K |3.3M| ****
-|MS1MV2 85K |5.8M|
+|--------|:-------:|-----------:|
+|CASIA [43]| 10K |0.5M|
+|VGGFace2 [6]| 9.1K |3.3M|
+|MS1MV2| 85K |5.8M|
 |MS1M-DeepGlint [2]| 87K |3.9M|
 |Asian-DeepGlint [2]| 94 K |2.83M|
 |LFW [13]| 5,749 |13,233|
@@ -36,7 +36,7 @@ is not familiar with the identity.
 |Trillion-Pairs [2]| 5,749 (P) |1.58M (G)|
 |iQIYI-VID [20]|4,934| 172,835|
 
-[alt text](https://www.groundai.com/media/arxiv_projects/154532/fig/arcFace.png.750x0_q75_crop.png)
+![alt text](https://www.groundai.com/media/arxiv_projects/154532/fig/arcFace.png.750x0_q75_crop.png)
 
 Additional Reading:
 
